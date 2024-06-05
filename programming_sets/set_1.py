@@ -1,3 +1,8 @@
+'''Programming Set 1
+
+This assignment will familiarize you with Python's basics.
+'''
+
 def savings(gross_pay, tax_rate, expenses):
     '''Savings.
 

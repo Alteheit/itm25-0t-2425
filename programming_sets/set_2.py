@@ -1,4 +1,4 @@
-'''Individual Programming Assignment 2
+'''Programming Set 2
 
 This assignment will develop your proficiency with Python's control flows.
 '''
